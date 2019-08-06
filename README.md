@@ -7,7 +7,3 @@ show and search on the map.
 
 ![](eczanedeneme1.gif)
 
-
-### You can examine the following image for JSON data in the project.
-
-![all text](jsonveri.png)
